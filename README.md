@@ -4,9 +4,8 @@ gathering, design, coding, testing and maintenance. Constantly eager to improve 
 Also, I follow new technologies closely
 
 
-
-- 
-- 🌱 I’m currently learning React, NodeJs
+ 
+- 🌱 I’m currently learning React, NodeJs, AWS Cloud - Serverless 
 - 💬 Ask me about ...
 - 📫 How to reach me: gunesbrk@hotmail.com
 
