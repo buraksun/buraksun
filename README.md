@@ -5,7 +5,7 @@ Also, I follow new technologies closely.
 
 
  
-- 🌱 I’m currently learning React, NodeJs, AWS Cloud - Serverless 
+- 🌱 I’m currently learning NodeJs, AWS Cloud - Serverless 
 
 - 📫 How to reach me: gunesbrk@hotmail.com
 
